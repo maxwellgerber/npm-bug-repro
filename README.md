@@ -38,7 +38,7 @@ $ uname
 Darwin
 ```
 
-#### Behavior for NPM v6.11.3
+#### Behavior for NPM v6.12.0
 
 ```bash
 mgerber@mgerber-ltm ~/work/npm-bug-repro
